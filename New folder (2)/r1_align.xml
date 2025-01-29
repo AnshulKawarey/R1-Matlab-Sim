@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="07/08/24||12:53:55" using="Simscape Multibody Link Version 7.4" from="SolidWorks 31.2.1"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Assem1" uid="Assem1" version="285">
+<AssemblyFile name="Assem1.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="arena_complete-1" uid="arena_complete-1" grounded="true" entityUid="arena_complete" rigid="true">
+<Transform>
+<Rotation>0.99814603883241082 0 -0.060864481951031259 -0.060864481951031259 1.1558658126065563e-16 -0.99814603883241082 0 1 1.1353475033570538e-16</Rotation>
+<Translation>2.3468420271690933 -1.7909975961954081 -0.27195749790204782</Translation>
+</Transform>
+<Instance name="area2-1" uid="area2-1" entityUid="area2*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-6.6017285133182408 0.26827705784244382 2.1692297237922373</Translation>
+</Transform>
+</Instance>
+<Instance name="ramp-1" uid="ramp-1" entityUid="ramp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-2.8017285133182401 0.36827705784244325 -0.83077027620770094</Translation>
+</Transform>
+</Instance>
+<Instance name="ramp-4" uid="ramp-4" entityUid="ramp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-6.6017285133182408 0.26827705784244382 3.1692297237922382</Translation>
+</Transform>
+</Instance>
+<Instance name="silo_base-2" uid="silo_base-2" entityUid="silo_base*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.72672851331824084 0.3682770578424438 2.1692297237922373</Translation>
+</Transform>
+</Instance>
+<Instance name="area1_floor-1" uid="area1_floor-1" entityUid="area1_floor*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-6.6017285133182408 0.16827705784244379 6.1692297237922373</Translation>
+</Transform>
+</Instance>
+<Instance name="area3-1" uid="area3-1" entityUid="area3*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-3.3517285133182413 0.3682770578424423 -1.8307702762077003</Translation>
+</Transform>
+</Instance>
+<Instance name="area3_ramp-1" uid="area3_ramp-1" grounded="true" entityUid="area3_ramp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-4.3517285133182781 0.36827705784244247 -1.8307702762077158</Translation>
+</Transform>
+</Instance>
+<Instance name="area3_ramp-2" uid="area3_ramp-2" grounded="true" entityUid="area3_ramp*:*Default">
+<Transform>
+<Rotation>-1 0 -6.9805272673306717e-15 0 1 0 6.9805272673306717e-15 0 -1</Rotation>
+<Translation>3.148271486681681 0.36827705784244241 -5.8307702762077378</Translation>
+</Transform>
+</Instance>
+<Instance name="ramp-2" uid="ramp-2" entityUid="ramp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.59827148668175978 0.36827705784244208 -0.83077027620770061</Translation>
+</Transform>
+</Instance>
+<Instance name="ramp-3" uid="ramp-3" entityUid="ramp*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>4.3982714866817583 0.26827705784244382 3.1692297237922382</Translation>
+</Transform>
+</Instance>
+<Instance name="silo_base-1" uid="silo_base-1" entityUid="silo_base*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.72672851331824084 0.26827705784244388 6.1692297237922373</Translation>
+</Transform>
+</Instance>
+<Instance name="silo_base-3" uid="silo_base-3" entityUid="silo_base*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.7267285133182404 0.46827705784244245 -1.8307702762077191</Translation>
+</Transform>
+</Instance>
+<Instance name="water_zone-2" uid="water_zone-2" entityUid="water_zone*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>1.5982714866817593 0.36827705784244191 -0.83077027620770061</Translation>
+</Transform>
+</Instance>
+<Instance name="seedling_rack_new-1" uid="seedling_rack_new-1" entityUid="seedling_rack_new*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-2.926728513318241 0.26827705784244421 6.0442297237922382</Translation>
+</Transform>
+</Instance>
+<Instance name="seedling_full-2" uid="seedling_full-2" entityUid="seedling_full*:*Default">
+<Transform>
+<Rotation>0.93542211458630364 0 -0.35353283799795554 0 1 0 0.35353283799795554 0 0.93542211458630364</Rotation>
+<Translation>-4.0305718128855439 0.32123859431252416 6.0397950642154754</Translation>
+</Transform>
+</Instance>
+<Instance name="seedling_full-4" uid="seedling_full-4" entityUid="seedling_full*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-3.5335058656475669 0.32123859431252422 6.0326018568068207</Translation>
+</Transform>
+</Instance>
+<Instance name="water_zone-1" uid="water_zone-1" entityUid="water_zone*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-6.6017285133182417 0.3682770578424438 -0.83077027620770116</Translation>
+</Transform>
+</Instance>
+<Instance name="silo-1" uid="silo-1" entityUid="silo*:*Default">
+<Transform>
+<Rotation>0.99412116132964956 1.0575977611332457e-05 0.10827334152383619 -8.482368019088861e-06 0.99999999976806619 -1.9796895826342863e-05 -0.10827334170809547 1.8762098740144398e-05 0.99412116118878879</Rotation>
+<Translation>-0.75887237333453617 0.71036003905063216 -5.2702783029584346</Translation>
+</Transform>
+</Instance>
+<Instance name="silo-3" uid="silo-3" entityUid="silo*:*Default">
+<Transform>
+<Rotation>0.99412116132964956 1.0575977611332457e-05 0.10827334152383619 -8.482368019088861e-06 0.99999999976806619 -1.9796895826342863e-05 -0.10827334170809547 1.8762098740144398e-05 0.99412116118878879</Rotation>
+<Translation>-0.75887237333453617 0.71036003905063205 -3.7702783029584346</Translation>
+</Transform>
+</Instance>
+<Instance name="silo-5" uid="silo-5" entityUid="silo*:*Default">
+<Transform>
+<Rotation>0.99412116132964956 1.0575977611332457e-05 0.10827334152383619 -8.482368019088861e-06 0.99999999976806619 -1.9796895826342863e-05 -0.10827334170809547 1.8762098740144398e-05 0.99412116118878879</Rotation>
+<Translation>-0.75887237333453617 0.71036003905063216 -2.2702783029584346</Translation>
+</Transform>
+</Instance>
+<Instance name="silo-4" uid="silo-4" entityUid="silo*:*Default">
+<Transform>
+<Rotation>0.99412116132964956 1.0575977611332457e-05 0.10827334152383619 -8.482368019088861e-06 0.99999999976806619 -1.9796895826342863e-05 -0.10827334170809547 1.8762098740144398e-05 0.99412116118878879</Rotation>
+<Translation>-0.75887237333453617 0.71036003905063216 -3.0202783029584346</Translation>
+</Transform>
+</Instance>
+<Instance name="silo-2" uid="silo-2" entityUid="silo*:*Default">
+<Transform>
+<Rotation>0.99412116132964956 1.0575977611332457e-05 0.10827334152383619 -8.482368019088861e-06 0.99999999976806619 -1.9796895826342863e-05 -0.10827334170809547 1.8762098740144398e-05 0.99412116118878879</Rotation>
+<Translation>-0.75887237333453617 0.71036003905063205 -4.5202783029584346</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="R1 Matlab Sim-1" uid="R1 Matlab Sim-1" entityUid="R1 Matlab Sim" rigid="true">
+<Transform>
+<Rotation>-0.35405222830665112 -0.30095096256995196 -0.88548039942130519 -0.85088883147787542 -0.2892666944593657 0.43853503388300458 -0.38811752871689637 0.90870968829696741 -0.15366029512505058</Rotation>
+<Translation>-6.6788638551296859 -9.9537753443714347 -1.2518884961654502</Translation>
+</Transform>
+<Instance name="gripper v4 gear-2" uid="gripper v4 gear-2" entityUid="gripper v4 gear*:*Metric - Spur gear 1.5M 14T 20PA 10FW ---S14N75H50L3N">
+<Transform>
+<Rotation>0.38811752871689287 -0.30160692129825339 0.87086052208587394 -0.90870968829696896 -0.28278694366803925 0.30704762967024279 0.15366029512504906 -0.91052996080078441 -0.38382770117098702</Rotation>
+<Translation>-4.2323654056417368 -0.70984566302077168 -3.1368160955430073</Translation>
+</Transform>
+</Instance>
+<Instance name="Omni wheel 127 part-3" uid="Omni wheel 127 part-3" entityUid="Omni wheel 127 part*:*Default">
+<Transform>
+<Rotation>0.68011422789418452 -0.32222614068334071 -0.65849445804518136 -0.67459936042942803 -0.62670049002857064 -0.39007973378035943 -0.28698491236318302 0.7095187172008004 -0.64360146831531295</Rotation>
+<Translation>-4.7451531337936101 -1.1383773752197874 -3.2928838111559884</Translation>
+</Transform>
+</Instance>
+<Instance name="Flipping_with_dual_shaft part-2" uid="Flipping_with_dual_shaft part-2" entityUid="Flipping_with_dual_shaft part*:*Default">
+<Transform>
+<Rotation>-0.30160692129825406 -0.38811752871689331 0.8708605220858735 -0.28278694366803903 0.90870968829696885 0.30704762967024346 -0.9105299608007843 -0.15366029512504831 -0.38382770117098758</Rotation>
+<Translation>-4.3607056938492796 -0.7324356116253723 -3.0131181813177159</Translation>
+</Transform>
+</Instance>
+<Instance name="Flipping_with_dual_shaft gripper part.SLDASM-2" uid="Flipping_with_dual_shaft gripper part.SLDASM-2" entityUid="Flipping_with_dual_shaft gripper part.SLDASM*:*Default">
+<Transform>
+<Rotation>-0.3134237262113645 -0.2781968251668861 0.90794938973207562 -0.28693698639581117 0.93917728695794966 0.18871457151050863 -0.90522523920064979 -0.20137663749643303 -0.3741854034897093</Rotation>
+<Translation>-4.3628301138776981 -0.74151536665686857 -2.9907515628759609</Translation>
+</Transform>
+</Instance>
+<Instance name="Flipping_with_dual_shaft gripper part.SLDASM-1" uid="Flipping_with_dual_shaft gripper part.SLDASM-1" entityUid="Flipping_with_dual_shaft gripper part.SLDASM*:*Default">
+<Transform>
+<Rotation>-0.3134237262113645 -0.27819682516688754 0.90794938973207517 -0.28693698639581106 0.93917728695794944 0.18871457151051013 -0.9052252392006499 -0.20137663749643231 -0.37418540348970952</Rotation>
+<Translation>-4.5146412080360276 -0.87827506157620761 -3.4445959007002358</Translation>
+</Transform>
+</Instance>
+<Instance name="Omni wheel 127 part-1" uid="Omni wheel 127 part-1" entityUid="Omni wheel 127 part*:*Default">
+<Transform>
+<Rotation>0.98672221585096032 0.11090368694743508 -0.11865766291157265 -0.097142995611839394 0.98847892346945809 0.11607177202153479 0.13016338636394356 -0.10300383525930626 0.98612763006222703</Rotation>
+<Translation>-4.6027716811964874 -1.0048803863521711 -2.8630442773217983</Translation>
+</Transform>
+</Instance>
+<Instance name="Flipping_with_dual_shaft part-1" uid="Flipping_with_dual_shaft part-1" entityUid="Flipping_with_dual_shaft part*:*Default">
+<Transform>
+<Rotation>-0.30160692129825289 -0.38811752871689359 0.87086052208587383 -0.28278694366803786 0.90870968829696896 0.30704762967024435 -0.91052996080078508 -0.15366029512504756 -0.38382770117098625</Rotation>
+<Translation>-4.5132104839265832 -0.86984571651513054 -3.4690567380518171</Translation>
+</Transform>
+</Instance>
+<Instance name="R1 Chassis 6.0^r1 new chassis final part-1" uid="R1 Chassis 6.0^r1 new chassis final part-1" entityUid="R1 Chassis 6.0^r1 new chassis final part*:*Default">
+<Transform>
+<Rotation>0.30160692129825328 -0.3881175287168962 -0.8708605220858725 0.28278694366804141 0.90870968829696741 -0.30704762967024535 0.91052996080078386 -0.15366029512504986 0.38382770117098824</Rotation>
+<Translation>-4.1840722193296784 -0.93742554564630431 -3.8166407368929605</Translation>
+</Transform>
+</Instance>
+<Instance name="spur_gear-1" uid="spur_gear-1" entityUid="spur_gear*:*Default">
+<Transform>
+<Rotation>0.3881175287168927 0.78191237678377778 0.48782970280112659 -0.90870968829696908 0.23642328971912357 0.34402140990585534 0.15366029512504886 -0.57681631661277666 0.80229137511963322</Rotation>
+<Translation>-4.221167878700788 -0.62506948821264574 -3.0426017057801258</Translation>
+</Transform>
+</Instance>
+<Instance name="spur_gear-3" uid="spur_gear-3" entityUid="spur_gear*:*Default">
+<Transform>
+<Rotation>0.38811752871689303 0.78191237678377734 0.48782970280112692 -0.90870968829696896 0.23642328971912402 0.34402140990585522 0.15366029512504836 -0.5768163166127771 0.802291375119633</Rotation>
+<Translation>-4.3729789728591184 -0.76182918313197989 -3.496446043604394</Translation>
+</Transform>
+</Instance>
+<Instance name="gripper v4 gear-1" uid="gripper v4 gear-1" entityUid="gripper v4 gear*:*Metric - Spur gear 1.5M 14T 20PA 10FW ---S14N75H50L3N">
+<Transform>
+<Rotation>-0.38811752871689226 0.8708605220858755 -0.30160692129824973 0.90870968829696908 0.30704762967024324 -0.28278694366803836 -0.15366029512504972 -0.38382770117098325 -0.91052996080078608</Rotation>
+<Translation>-4.21296581060649 -0.62344473807181888 -3.0236831962368007</Translation>
+</Transform>
+</Instance>
+<Instance name="spur_gear-4" uid="spur_gear-4" entityUid="spur_gear*:*Default">
+<Transform>
+<Rotation>-0.3881175287168927 0.10026030936065888 0.91614008441373029 0.90870968829696908 0.20737235925926437 0.36227531935045176 -0.15366029512504908 0.97311077220538034 -0.17159236206757933</Rotation>
+<Translation>-4.2240805769870935 -0.70817927842767636 -3.117860407846532</Translation>
+</Transform>
+</Instance>
+<Instance name="Omni wheel 127 part-2" uid="Omni wheel 127 part-2" entityUid="Omni wheel 127 part*:*Default">
+<Transform>
+<Rotation>0.27436173708076961 0.40783279453514232 -0.87086052208587295 -0.95156790117457501 -0.015501050548196768 -0.30704762967024596 -0.13872334583709001 0.91292504025991028 0.38382770117098702</Rotation>
+<Translation>-4.3393403236241772 -0.95364801809055733 -3.2254474475646222</Translation>
+</Transform>
+</Instance>
+<Instance name="spur_gear-2" uid="spur_gear-2" entityUid="spur_gear*:*Default">
+<Transform>
+<Rotation>-0.38811752871689198 0.10026030936065958 0.91614008441373052 0.90870968829696952 0.20737235925926351 0.36227531935045143 -0.15366029512504806 0.97311077220538045 -0.17159236206757969</Rotation>
+<Translation>-4.3758916711454132 -0.84493897334702739 -3.5717047456707904</Translation>
+</Transform>
+</Instance>
+<Instance name="gripper v4 gear-3" uid="gripper v4 gear-3" entityUid="gripper v4 gear*:*Metric - Spur gear 1.5M 14T 20PA 10FW ---S14N75H50L3N">
+<Transform>
+<Rotation>0.38811752871689253 -0.30160692129825417 0.87086052208587383 -0.90870968829696941 -0.28278694366803769 0.30704762967024302 0.15366029512504739 -0.91052996080078474 -0.38382770117098719</Rotation>
+<Translation>-4.3841764998000601 -0.84660535794011915 -3.5906604333672703</Translation>
+</Transform>
+</Instance>
+<Instance name="gripper v4 gear-4" uid="gripper v4 gear-4" entityUid="gripper v4 gear*:*Metric - Spur gear 1.5M 14T 20PA 10FW ---S14N75H50L3N">
+<Transform>
+<Rotation>-0.38811752871689281 0.87086052208587461 -0.30160692129825151 0.90870968829696885 0.30704762967024291 -0.28278694366803958 -0.15366029512505008 -0.38382770117098536 -0.91052996080078508</Rotation>
+<Translation>-4.3647769047648426 -0.76020443299116058 -3.4775275340610481</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="seedling_full-2" uid="seedling_full-2" entityUid="seedling_full*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -3.4914813388431334e-15 -1 0 1 -3.4914813388431334e-15</Rotation>
+<Translation>-1.7974944923766663 -7.5810034493247054 0.13928109641077302</Translation>
+</Transform>
+</Instance>
+<Instance name="seedling_full-1" uid="seedling_full-1" entityUid="seedling_full*:*Default">
+<Transform>
+<Rotation>1 0 0 0 -3.4914813388431334e-15 -1 0 1 -3.4914813388431334e-15</Rotation>
+<Translation>-2.2965675117929232 -7.5505712083503562 0.13928109641070147</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="arena_complete" uid="arena_complete" version="272">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="arena_complete.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="R1 Matlab Sim" uid="R1 Matlab Sim" version="562">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="R1 Matlab Sim.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="Flipping_with_dual_shaft gripper part.SLDASM" uid="Flipping_with_dual_shaft gripper part.SLDASM*:*Default" version="113">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Flipping_with_dual_shaft gripper part.SLDASM.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.21267879728270481</Mass>
+<CenterOfMass>0.015968895138626957 0.045573523017052545 0.14706475477264469</CenterOfMass>
+<Inertia>0.0002738623699250384 0.00088688335576195439 0.00067515093920744122 -3.0648250783902551e-05 -4.3505726420980762e-06 -9.7111063468867741e-06</Inertia>
+</MassProperties>
+<GeometryFile name="Flipping_with_dual_shaft gripper part.SLDASM_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Flipping_with_dual_shaft part" uid="Flipping_with_dual_shaft part*:*Default" version="111">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Flipping_with_dual_shaft part.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.13075346127818885</Mass>
+<CenterOfMass>-0.001390732748256846 0.0105603306440894 0.020383054005478914</CenterOfMass>
+<Inertia>0.00011039696716751246 0.00015008432980026767 8.2075722356501928e-05 1.1799770408518854e-05 -1.5855933041369415e-06 8.4899772530964883e-07</Inertia>
+</MassProperties>
+<GeometryFile name="Flipping_with_dual_shaft part_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Omni wheel 127 part" uid="Omni wheel 127 part*:*Default" version="177">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Omni wheel 127 part.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.65000000000000002</Mass>
+<CenterOfMass>-1.1704407156607755e-13 -2.3041331235080331e-14 -0.010498322024629001</CenterOfMass>
+<Inertia>0.00077985494390056987 0.00077985494389318591 0.0014407793152917501 -6.1104266171635465e-15 -5.7917065321596008e-15 5.1924590039705493e-15</Inertia>
+</MassProperties>
+<GeometryFile name="Omni wheel 127 part_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="R1 Chassis 6.0^r1 new chassis final part" uid="R1 Chassis 6.0^r1 new chassis final part*:*Default" version="258">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="r1 new chassis final part.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>8.0872103444761638</Mass>
+<CenterOfMass>0.48704590307585038 -0.0041599771453184322 0.63026827749355541</CenterOfMass>
+<Inertia>0.28759917167390403 0.44301853224871041 0.29315804783069715 -0.025311234800284993 0.00026453149936044029 -0.00038159755131033323</Inertia>
+</MassProperties>
+<GeometryFile name="R1 Chassis 6.0-r1 new chassis final part_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="area1_floor" uid="area1_floor*:*Default" version="136">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="area1_floor.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>14399.978794249606</Mass>
+<CenterOfMass>6.0000034238501598 0.049999926442444928 -6.0000050805518503</CenterOfMass>
+<Inertia>172811.74619009552 345599.61612015357 172811.86982424109 0.003654339335538076 -0.17009687597849502 -0.0024627069435144513</Inertia>
+</MassProperties>
+<GeometryFile name="area1_floor_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="area2" uid="area2*:*Default" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="area2.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>9600.0000000000018</Mass>
+<CenterOfMass>6 0.050000000000000003 -4</CenterOfMass>
+<Inertia>51208.000000000007 166399.99999999997 115207.99999999999 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="area2_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="area3" uid="area3*:*Default" version="106">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="area3.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>2200</Mass>
+<CenterOfMass>2.7500000000000004 0.05000000000000001 -2</CenterOfMass>
+<Inertia>2935.166666666667 8479.1666666666679 5547.6666666666661 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="area3_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="area3_ramp" uid="area3_ramp*:*Default" version="110">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="area3_ramp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>200</Mass>
+<CenterOfMass>0.66666666666666674 0.03333333333333334 -2</CenterOfMass>
+<Inertia>266.77777777777777 277.77777777777777 11.222222222222223 -6.6497733245777612e-16 -3.7585675312830826e-15 -0.55555555555555569</Inertia>
+</MassProperties>
+<GeometryFile name="area3_ramp_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="gripper v4 gear" uid="gripper v4 gear*:*Metric - Spur gear 1.5M 14T 20PA 10FW ---S14N75H50L3N" version="7471">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="gripper v4 gear.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.035702592314927853</Mass>
+<CenterOfMass>0.01807554390719417 0.037723513638425708 -0.0098188597660670493</CenterOfMass>
+<Inertia>1.6432875018676743e-05 6.3845038330871896e-06 2.0017852574091172e-05 1.7130680855554712e-06 5.6305365965769968e-07 -2.3503334574380858e-06</Inertia>
+</MassProperties>
+<GeometryFile name="gripper v4 gear_Metric - Spur gear 1.5M 14T 20PA 10FW ---S14N75H50L3N_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Diffuse r="0.77647058823529413" g="0.75686274509803919" b="0.73725490196078436" a="1"/>
+<Specular r="0.38823529411764707" g="0.3784313725490196" b="0.36862745098039218" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="ramp" uid="ramp*:*Default" version="112">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="ramp.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>50</Mass>
+<CenterOfMass>0.5 0.03333333333333334 -0.66666666666666674</CenterOfMass>
+<Inertia>2.8055555555555549 6.9444444444444438 4.1944444444444446 0.13888888888888898 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="ramp_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="seedling_full" uid="seedling_full*:*Default" version="106">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="seedling_full.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.71887493895768428</Mass>
+<CenterOfMass>-0.018222647670711471 0.054855572674461117 0.011627866985463697</CenterOfMass>
+<Inertia>0.0053090706444613575 0.00037172911763312167 0.0053090706444613575 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="seedling_full_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="seedling_rack_new" uid="seedling_rack_new*:*Default" version="123">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="seedling_rack_new.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>72.005336378260509</Mass>
+<CenterOfMass>0.03993453680606638 0.050017144314366713 0</CenterOfMass>
+<Inertia>0.48545622690389301 62.834863232131866 62.562583422517257 0 0 -0.16620378475619677</Inertia>
+</MassProperties>
+<GeometryFile name="seedling_rack_new_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="silo" uid="silo*:*Default" version="112">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="silo.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.68835669193631477</Mass>
+<CenterOfMass>0.16276983239242029 -0.062391923595743574 -0.043120992613031289</CenterOfMass>
+<Inertia>0.015652219019330102 0.0067780612197984374 0.015652219015882856 2.133009449314196e-07 -2.8649219975630486e-12 1.1455819781855123e-07</Inertia>
+</MassProperties>
+<GeometryFile name="silo_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="silo_base" uid="silo_base*:*Default" version="106">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="silo_base.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>99.999999999999986</Mass>
+<CenterOfMass>0.125 0.05000000000000001 -2</CenterOfMass>
+<Inertia>133.41666666666666 133.85416666666666 0.60416666666666685 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="silo_base_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="spur_gear" uid="spur_gear*:*Default" version="611">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="spur_gear.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.0029226778372463628</Mass>
+<CenterOfMass>0.0001139639648499724 0.0004710787896452409 -0.00035494595834961165</CenterOfMass>
+<Inertia>1.6527017465536566e-07 1.0236316272909591e-07 1.0236316272909569e-07 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="spur_gear_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0" g="0" b="0" a="1"/>
+<Diffuse r="0" g="0" b="0" a="1"/>
+<Specular r="0" g="0" b="0" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+<Part name="water_zone" uid="water_zone*:*Default" version="106">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="water_zone.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>380</Mass>
+<CenterOfMass>1.8999999999999999 0.05000000000000001 -0.5</CenterOfMass>
+<Inertia>31.983333333333327 488.93333333333328 457.58333333333331 0 5.9211894646675002e-15 0</Inertia>
+</MassProperties>
+<GeometryFile name="water_zone_Default_sldprt.STL" type="STL"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.3125</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
